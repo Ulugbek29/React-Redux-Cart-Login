@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-1",
+            "price": 12250,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        },
+        {
+            "id": "2",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-2",
+            "price": 850,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        },
+        {
+            "id": "3",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-3",
+            "price": 960,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        },
+        {
+            "id": "4",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-4",
+            "price": 450,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        },
+        {
+            "id": "5",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-5",
+            "price": 11000,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        },
+        {
+            "id": "6",
+            "title": "PowerShot SX620 HS",
+            "brand": "Canon",
+            "image": "camera-6",
+            "price": 890,
+            "creditTypes": [
+            {"price": "650₽", "type": "Будний"},
+            {"price": "750₽", "type": "Выходной"},
+            {"price": "4380₽", "type": "Неделя"},
+            {"price": "12250₽", "type": "Месяц"}]
+        }
+    ],
+    "news": [
+        {"id": "1", "date": "7 апреля 2019", "title": "Выбираем SD-карты для съемки", "text": "За исключением отсутствующей системы аэродинамического охлаждения, корпус этого ноутбука почти такой же.", "image": "news-1"},
+        {"id": "2", "date": "20 мая 2019", "title": "Что представила Photokina", "text": "Ноутбук Zephyrus S (GX502) весит 2 кг, а корпус толщиной всего 18,9 мм позволяет легко уместить его в обычный рюкзак.","image": "news-2"},
+        {"id": "3", "date": "14 июня 2019", "title": "Новинка goPro Hero 5", "text": "Специальные «легкие» версии приложений для Android GO и отсутствие некоторых предустановленных программ.","image": "news-3"}
+    ]
+}
